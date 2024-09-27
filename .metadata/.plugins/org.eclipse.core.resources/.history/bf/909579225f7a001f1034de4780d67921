@@ -1,0 +1,11 @@
+package Clase1;
+
+public class EjemploDebuger 
+{
+	public static void main(String[] args)
+	{
+		float numero = 3/2;
+		System.out.println("Resultado:" + numero);
+	}
+
+}

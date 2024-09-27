@@ -1,0 +1,22 @@
+package Unidad2;
+
+public class BuscarEnUnArray 
+{
+
+	public static void main(String[] args) 
+	{
+		int [] arrayEjemplo = {2,5,1,3,4};
+		
+		int mayor = Integer.MIN_VALUE;
+		int i = 0;
+		while (i < arrayEjemplo.length)
+		{
+			if (mayor < arrayEjemplo[i])
+				mayor = arrayEjemplo[i];
+			i++;
+		}
+		System.out.println("El mayor de los numeros es: " + mayor);
+
+	}
+
+}

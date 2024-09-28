@@ -18,6 +18,7 @@ public class BuscarEnUnArray
 			if (mayor < arrayEjemplo[i])
 				mayor = arrayEjemplo[i];
 			if (menor > arrayEjemplo[i])
+				
 				menor = arrayEjemplo[i];
 			suma = suma + arrayEjemplo[i];
 			resta = resta - arrayEjemplo[i];

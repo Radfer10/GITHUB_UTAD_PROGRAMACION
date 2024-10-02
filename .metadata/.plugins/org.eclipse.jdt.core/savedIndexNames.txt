@@ -1,6 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Usuario\Desktop\UTAD_PROGRAMACION\.metadata\.plugins\org.eclipse.jdt.core
-3028414534.index
-1865797976.index
-3251249088.index
-448412388.index
-1755045093.index

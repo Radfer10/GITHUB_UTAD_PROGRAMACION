@@ -7,10 +7,9 @@ en el bucle do-while, que buscan la diferencia entre el piso marcado actual y el
 he añadido otra condición que sale del bucle si se marca un número que no esté dentro del rango de 1 a 10.
 
 Por último, guardo los pisos recorridos en una variable y se los sumo al final al último piso anterior calculado para obtener el total de pisos 
-recorridos entre el piso 0 hasta el 0 de nuevo.*/
+recorridos entre el piso 0 hasta el 0 de nuevo*/
 package Actividad2_UD2;
 import java.util.Scanner;
-
 public class Ascensor_EJ5 
 {
 	public static void main(String[] args) 
@@ -40,5 +39,4 @@ public class Ascensor_EJ5
 		System.out.println("Recorridos " + pisosrecorridos + " pisos");
 		sc.close();
 	}
-
 }

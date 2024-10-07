@@ -1,3 +1,4 @@
+
 /*En este ejercicio se nos pide que utilicemos la instrucción switch, en la que se ingrese un número del 1 al 7 y se imprima en la salida el día de la semana correspondiente a dicho número. 
  * Si se ingresa un número fuera del rango de 1 a 7, se mostrará "Error, fuera de rango".
 
@@ -47,6 +48,4 @@ public class Switch_EJ1
 		System.out.println(texto);
 		sc.close();
 	}
-
 }
-

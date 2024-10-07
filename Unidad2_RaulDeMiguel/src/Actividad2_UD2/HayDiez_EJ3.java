@@ -38,6 +38,5 @@ public class HayDiez_EJ3
 		else
 			System.out.print("NO");
 		sc.close();
-		}
-
+	}
 }

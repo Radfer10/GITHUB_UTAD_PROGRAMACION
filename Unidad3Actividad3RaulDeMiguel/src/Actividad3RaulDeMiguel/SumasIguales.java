@@ -40,7 +40,7 @@ public class SumasIguales
 		
 		int sumaAcumulada = 0;
 		
-		for (int i = 0; i < cantidad.length - 1; i++)
+		for (int i = 0; i < cantidad.length; i++)
 		{
 			sumaAcumulada += cantidad[i];
 			int sumaResto = sumaTotal - sumaAcumulada;
